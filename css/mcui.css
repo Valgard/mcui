@@ -275,7 +275,15 @@
 }
 
 
-/* -- Itmes -------------------------------------------*/
+/* -- Items -------------------------------------------*/
+
+.mcui .mcui-item-iron-ingot {
+  background-position:-224px -1120px;
+}
+
+.mcui .mcui-item-bucket {
+  background-position:-864px -640px;
+}
 
 .mcui .mcui-item-wheat {
   background-position:-544px -832px;
